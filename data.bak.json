@@ -1,0 +1,129 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    },
+    "github": {
+      "repo": "gc1175383875/Photo",
+      "branch": "CachePhoto",
+      "token": "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",
+      "path": "",
+      "customUrl": "",
+      "_configName": "Default",
+      "_id": "06b38df3-8ce9-4217-9a07-ca2dd47e2e3d",
+      "_createdAt": 1684231763854,
+      "_updatedAt": 1684231763854
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": false
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": false
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": true
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": false
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": false
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      },
+      {
+        "type": "webdavplist",
+        "name": "WebDAV",
+        "visible": false
+      }
+    ],
+    "webdavplist": {
+      "_configName": "Default",
+      "_id": "aa780a67-a806-474e-b03c-05618db15da9",
+      "_createdAt": 1684231771857,
+      "_updatedAt": 1684231771857
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "showUpdateTip": false,
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "autoStart": true,
+    "privacyEnsure": true,
+    "useBuiltinClipboard": false,
+    "miniWindowOntop": true,
+    "pasteStyle": "markdown",
+    "isListeningClipboard": false,
+    "mainWindowWidth": 800,
+    "mainWindowHeight": 450,
+    "deleteCloudFile": true,
+    "autoImport": true
+  },
+  "needReload": false,
+  "picgoPlugins": {
+    "picgo-plugin-github-plus": true
+  },
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "uploader": {
+    "github": {
+      "configList": [
+        {
+          "repo": "gc1175383875/Photo",
+          "branch": "CachePhoto",
+          "token": "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",
+          "path": "",
+          "customUrl": "",
+          "_configName": "Default",
+          "_id": "06b38df3-8ce9-4217-9a07-ca2dd47e2e3d",
+          "_createdAt": 1684231763854,
+          "_updatedAt": 1684231763854
+        }
+      ],
+      "defaultId": "06b38df3-8ce9-4217-9a07-ca2dd47e2e3d"
+    },
+    "webdavplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "aa780a67-a806-474e-b03c-05618db15da9",
+          "_createdAt": 1684231771857,
+          "_updatedAt": 1684231771857
+        }
+      ],
+      "defaultId": "aa780a67-a806-474e-b03c-05618db15da9"
+    }
+  }
+}
